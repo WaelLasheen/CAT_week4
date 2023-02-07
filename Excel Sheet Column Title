@@ -1,7 +1,7 @@
 class Solution {
 public:
     string convertToTitle(int columnNumber) {
-        int cn,r;
+        int cn;
         char alph;
         string ward;
         while(columnNumber >0){
